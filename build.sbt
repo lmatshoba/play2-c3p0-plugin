@@ -2,7 +2,7 @@ name := "play2-c3p0-plugin"
 
 version := "0.3-SNAPSHOT"
 
-scalaVersion := "2.10.2"
+scalaVersion := "2.10.3"
 
 resolvers += "Typesafe releases" at "http://repo.typesafe.com/typesafe/releases/"
 
